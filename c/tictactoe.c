@@ -39,5 +39,8 @@ if (ar[0][0]==ar[1][1]&& ar[1][1]==ar[2][2])
     printf("Diagonal win\n");
 }
 
+else{
+    printf("invalid");
+}
     return 0;
 }
