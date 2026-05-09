@@ -1,1 +1,1 @@
-This contains projects mafe using C language 
+This contains projects made using C language 
