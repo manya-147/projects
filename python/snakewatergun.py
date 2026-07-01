@@ -14,11 +14,11 @@ else :
         print("U LOSE")
     elif(compnum==1 and usernum==0) :
         print("U WIN")
-    if(compnum==0 and usernum==-1) :
+    elif(compnum==0 and usernum==-1) :
         print("U WIN")
     elif(compnum==0 and usernum==1) :
         print("U LOSE")
-    if(compnum==-1 and usernum==1) :
+    elif(compnum==-1 and usernum==1) :
         print("U WIN")
     elif(compnum==-1 and usernum==0) :
         print("U LOSE")
